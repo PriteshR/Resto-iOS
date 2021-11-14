@@ -1,0 +1,207 @@
+{
+  "restaurants" : {
+    "613d19a8-5681-b387-c545-5c723cd8f7db" : {
+      "kitchen" : {
+        "-LMxVPi88o2OZapG7vAK" : {
+          "email" : "pritesh.ramani.pr@gmail.com",
+          "salary" : "12000"
+        }
+      },
+      "menu" : {
+        "categories" : {
+          "-LMfVWz1bJRdUhVjrLZj" : {
+            "name" : "Punjabi"
+          },
+          "-LMfVZ3X63REz2o22K_b" : {
+            "name" : "Chinese"
+          },
+          "-LMfV_G3i_xTXlaC1-y-" : {
+            "name" : "Mexican"
+          },
+          "-LMxUXQB0ZDgwCytrfqG" : {
+            "name" : "Starter"
+          }
+        },
+        "items" : {
+          "-LMfVdE4CnZdkihUpJb6" : {
+            "category" : "Punjabi",
+            "name" : "Paneer tikka",
+            "price" : "70"
+          },
+          "-LMfVfRiUh4xYVp9hldQ" : {
+            "category" : "Punjabi",
+            "name" : "Paneer butter",
+            "price" : "80"
+          },
+          "-LMfVhOkcg7vu-h29HTv" : {
+            "category" : "Mexican",
+            "name" : "sizzler",
+            "price" : "80"
+          },
+          "-LMfVmb632guVkr3k_ns" : {
+            "category" : "Chinese",
+            "name" : "chinese bhel",
+            "price" : "30"
+          },
+          "-LMxUavV17oJDiWhJW-E" : {
+            "category" : "Starter",
+            "name" : "Manchooriyan Dry",
+            "price" : "90"
+          }
+        }
+      },
+      "notify" : "false",
+      "tables" : {
+        "-LMfVTUlycBZ1b7LMBbF" : {
+          "RecentOrder" : {
+            "-Lb2bxFV6yAGrrQlGOzR" : {
+              "category" : "Punjabi",
+              "name" : "Paneer tikka",
+              "price" : "70",
+              "quantity" : "1"
+            },
+            "-Lb2bxFZgXzE8BypBWeX" : {
+              "category" : "Punjabi",
+              "name" : "Paneer butter",
+              "price" : "80",
+              "quantity" : "1"
+            },
+            "-Lb2bxF_me3LvMT1JK2G" : {
+              "category" : "Mexican",
+              "name" : "sizzler",
+              "price" : "80",
+              "quantity" : "2"
+            },
+            "-Lb2bxFa5NLPUOXv2Kr5" : {
+              "category" : "Chinese",
+              "name" : "chinese bhel",
+              "price" : "30",
+              "quantity" : "1"
+            },
+            "-Lb2bxFb6H14DGADBYbs" : {
+              "category" : "Starter",
+              "name" : "Manchooriyan Dry",
+              "price" : "90",
+              "quantity" : "3"
+            },
+            "-Lb2j0sKorMvrDs8C3vh" : {
+              "category" : "Punjabi",
+              "name" : "Paneer tikka",
+              "price" : "70",
+              "quantity" : "1"
+            },
+            "-Lb2j0se1P5sR5KWfuTg" : {
+              "category" : "Punjabi",
+              "name" : "Paneer butter",
+              "price" : "80",
+              "quantity" : "1"
+            },
+            "-Lb2j0sf_axgpF0pXiC2" : {
+              "category" : "Mexican",
+              "name" : "sizzler",
+              "price" : "80",
+              "quantity" : "1"
+            },
+            "-Lb2j0sgeacXpl2ZtQ2l" : {
+              "category" : "Chinese",
+              "name" : "chinese bhel",
+              "price" : "30",
+              "quantity" : "1"
+            },
+            "-Lb2j0sgeacXpl2ZtQ2m" : {
+              "category" : "Starter",
+              "name" : "Manchooriyan Dry",
+              "price" : "90",
+              "quantity" : "1"
+            }
+          },
+          "custName" : "avsdfasdf",
+          "name" : "Name2",
+          "seating" : "4"
+        },
+        "-LMfVUdGG7tUTPNfZ9L-" : {
+          "RecentOrder" : {
+            "-Lb2ad-5-47sBvAveZzz" : {
+              "category" : "Punjabi",
+              "name" : "Paneer tikka",
+              "price" : "70",
+              "quantity" : "1"
+            },
+            "-Lb2ad-63ZhDl-wTY7yg" : {
+              "category" : "Chinese",
+              "name" : "chinese bhel",
+              "price" : "30",
+              "quantity" : "1"
+            },
+            "-Lb2ad-7SmzjNggFaFLQ" : {
+              "category" : "Starter",
+              "name" : "Manchooriyan Dry",
+              "price" : "90",
+              "quantity" : "2"
+            }
+          },
+          "custName" : "asdf",
+          "name" : "Name3",
+          "seating" : "6"
+        },
+        "-LMxUj1w_Gd0yoMAtiq5" : {
+          "custName" : "asdsd",
+          "name" : "table1",
+          "seating" : "4"
+        },
+        "-LYN3Oys0iqYyBIks0aX" : {
+          "custName" : "abcd",
+          "name" : "table2",
+          "seating" : "21"
+        },
+        "-LYN3yj2AKZz1XfmH2We" : {
+          "custName" : "asd",
+          "name" : "table3",
+          "seating" : "10"
+        }
+      },
+      "waiters" : {
+        "-LYN15ifMPvFv7O0LFv0" : {
+          "email" : "ramani.pritesh.rp@gmail.com",
+          "salary" : "123"
+        }
+      }
+    }
+  },
+  "users" : {
+    "unverified" : {
+      "priteshramaniprgmailcom" : {
+        "email" : "pritesh.ramani.pr@gmail.com",
+        "restaurant" : "",
+        "type" : "Kitchen"
+      },
+      "ramanipritesh209gmailcom" : {
+        "email" : "ramanipritesh209@gmail.com",
+        "restaurant" : "613d19a8-5681-b387-c545-5c723cd8f7db",
+        "type" : "Manager"
+      },
+      "ramanipriteshrpgmailcom" : {
+        "email" : "ramani.pritesh.rp@gmail.com",
+        "restaurant" : "",
+        "type" : "Waiter"
+      }
+    },
+    "verified" : {
+      "klbmefg7whNpDAb7inobbnJkquX2" : {
+        "email" : "pritesh.ramani.pr@gmail.com",
+        "restaurant" : "613d19a8-5681-b387-c545-5c723cd8f7db",
+        "type" : "Kitchen"
+      },
+      "motD1TcSD4cegqfOgJ12uUGQvsf2" : {
+        "email" : "ramanipritesh209@gmail.com",
+        "restaurant" : "613d19a8-5681-b387-c545-5c723cd8f7db",
+        "type" : "Manager"
+      },
+      "wX8ReujbrLNiWAzUUKNbUbB8OAf1" : {
+        "email" : "ramani.pritesh.rp@gmail.com",
+        "restaurant" : "613d19a8-5681-b387-c545-5c723cd8f7db",
+        "type" : "Waiter"
+      }
+    }
+  }
+}
